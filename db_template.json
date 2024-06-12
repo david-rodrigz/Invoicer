@@ -1,0 +1,19 @@
+[
+    {
+        "invoiceNum": 1,
+        "client": {
+            "fname": "",
+            "lname": "",
+            "address": "",
+            "city": ""
+        },
+        "date": "dd/MM/yyyy",
+        "items": [
+            {
+                "description": "",
+                "qty": 0,
+                "rate": 0
+            }
+        ]
+    }
+]

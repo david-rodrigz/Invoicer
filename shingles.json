@@ -1,0 +1,51 @@
+[
+    {
+        "Brand": "GAF Timberline HDZ",
+        "Colors": [
+            "Pewter Gray",
+            "Appalachian Sky",
+            "Barkwood",
+            "Birchwood",
+            "Biscayne Blue",
+            "Cedar Falls",
+            "Charcoal",
+            "Copper Canyon",
+            "Driftwood",
+            "Fox Hollow Gray",
+            "Golden Amber",
+            "Golden Harvest",
+            "Hickory",
+            "Hunter Green",
+            "Mission Brown",
+            "Nantucket Morning",
+            "Oyster Gray",
+            "Patriot Red",
+            "Shakewood",
+            "Slate",
+            "Sunset Brick",
+            "Weathered Wood",
+            "Williamsburg Slate"
+        ]
+    },
+    {
+        "Brand": "GAF Timberline UHDZ",
+        "Colors": [
+            "Pewter Gray",
+            "Barkwood",
+            "Charcoal",
+            "Shakewood",
+            "Slate",
+            "Weathered Wood"
+        ]
+    },
+    {
+        "Brand": "GAF Grand Sequoia",
+        "Colors": [
+            "Autumn Brown",
+            "Cedar",
+            "Charcoal",
+            "Mesa Brown",
+            "Weathered Wood"
+        ]
+    }
+]
